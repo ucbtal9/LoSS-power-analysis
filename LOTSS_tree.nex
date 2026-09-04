@@ -1,0 +1,125 @@
+#NEXUS
+[R-package APE, Tue Aug 11 23:16:18 2026]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 56;
+	TAXLABELS
+		Barbourula_busuangensis
+		Ischnocnema_guentheri
+		Brachycephalus_sulfuratus
+		Brachycephalus_coloratus
+		Brachycephalus_pernix
+		Eleutherodactylus_coqui
+		Adelophryne_gutturosa
+		Leptodactylus_poecilochilus
+		Telmatobius_brevipes
+		Eupsophus_roseus
+		Sechellophryne_gardineri
+		Sooglossus_sechellensis
+		Chaperina_fusca
+		Microhyla_rubra
+		Microhyla_borneensis
+		Microhyla_berdmorei
+		Microhyla_pulchra
+		Paedophryne_amauensis
+		Paedophryne_verrucosa
+		Cophixalus_riparius
+		Cophixalus_pipilans
+		Cophixalus_cheesmanae
+		Cophixalus_neglectus
+		Choerophryne_rostellifer
+		Austrochaperina_gracilipes
+		Rhombophryne_laevipes
+		Rhombophryne_minuta
+		Rhombophryne_quentini
+		Rhombophryne_testudo
+		Rhombophryne_mavokely
+		Rhombophryne_savaka
+		Stumpffia_tridactyla
+		Stumpffia_nigrorubra
+		Stumpffia_megsoni
+		Stumpffia_psologlossa
+		Stumpffia_madagascariensis
+		Stumpffia_pygmaea
+		Stumpffia_obscoena
+		Anodonthyla_moramora
+		Anodonthyla_eximia
+		Anodonthyla_boulengerii
+		Platypelis_grandis
+		Platypelis_tuberifera
+		Platypelis_pollicaris
+		Plethodontohyla_inguinalis
+		Plethodontohyla_guentheri
+		Plethodontohyla_notosticta
+		Mini_mum
+		Mini_scule
+		Chiasmocleis_leucosticta
+		Chiasmocleis_albopunctata
+		Gastrophryne_carolinensis
+		Arthroleptis_tanneri
+		Arthroleptis_xenodactyloides
+		Occidozyga_laevis
+		Rana_temporaria
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Barbourula_busuangensis,
+		2	Ischnocnema_guentheri,
+		3	Brachycephalus_sulfuratus,
+		4	Brachycephalus_coloratus,
+		5	Brachycephalus_pernix,
+		6	Eleutherodactylus_coqui,
+		7	Adelophryne_gutturosa,
+		8	Leptodactylus_poecilochilus,
+		9	Telmatobius_brevipes,
+		10	Eupsophus_roseus,
+		11	Sechellophryne_gardineri,
+		12	Sooglossus_sechellensis,
+		13	Chaperina_fusca,
+		14	Microhyla_rubra,
+		15	Microhyla_borneensis,
+		16	Microhyla_berdmorei,
+		17	Microhyla_pulchra,
+		18	Paedophryne_amauensis,
+		19	Paedophryne_verrucosa,
+		20	Cophixalus_riparius,
+		21	Cophixalus_pipilans,
+		22	Cophixalus_cheesmanae,
+		23	Cophixalus_neglectus,
+		24	Choerophryne_rostellifer,
+		25	Austrochaperina_gracilipes,
+		26	Rhombophryne_laevipes,
+		27	Rhombophryne_minuta,
+		28	Rhombophryne_quentini,
+		29	Rhombophryne_testudo,
+		30	Rhombophryne_mavokely,
+		31	Rhombophryne_savaka,
+		32	Stumpffia_tridactyla,
+		33	Stumpffia_nigrorubra,
+		34	Stumpffia_megsoni,
+		35	Stumpffia_psologlossa,
+		36	Stumpffia_madagascariensis,
+		37	Stumpffia_pygmaea,
+		38	Stumpffia_obscoena,
+		39	Anodonthyla_moramora,
+		40	Anodonthyla_eximia,
+		41	Anodonthyla_boulengerii,
+		42	Platypelis_grandis,
+		43	Platypelis_tuberifera,
+		44	Platypelis_pollicaris,
+		45	Plethodontohyla_inguinalis,
+		46	Plethodontohyla_guentheri,
+		47	Plethodontohyla_notosticta,
+		48	Mini_mum,
+		49	Mini_scule,
+		50	Chiasmocleis_leucosticta,
+		51	Chiasmocleis_albopunctata,
+		52	Gastrophryne_carolinensis,
+		53	Arthroleptis_tanneri,
+		54	Arthroleptis_xenodactyloides,
+		55	Occidozyga_laevis,
+		56	Rana_temporaria
+	;
+	TREE * UNTITLED = [&R] (1:0.5086173,((((((2:0.2977865,(3:0.1764681,(4:1e-06,5:1e-06)85:0.04644526)32:0.1799087)96:0.0136111,(6:0.13710989,7:0.27049842)100:0.0207092)98:0.0469661,8:0.27780447)73:0.00995074,9:0.10051725)77:0.0073686,10:0.18417472)96:0.3223444,((11:0.1641774,12:0.0671348)100:0.374872,((((13:0.188586,((14:0.1115768,15:0.12769656)88:0.0152813,(16:0.0865654,17:0.0764749)100:0.0359361)82:0.1857815)99:0.03853851,((18:0,19:0)NA:0.22827087,(((20:0.03,(21:0.03,(22:0.03,23:0.03)NA:0.03)NA:0.03)NA:0.09548229,24:0.2080237)20:0.00222657,25:0.12820014)9:0.0037549)98:0.1202756)85:0.0175735,((((26:0.0943608,((27:0,28:0)NA:0.0770134,(29:0,(30:0,31:0)NA:2e-12)NA:0.088113)41:0.0110695)23:0.02375576,(32:0.1473904,(33:0.0655187,((34:0.1115774,(35:0.0943494,(36:0.064275,37:0.0370906)100:0.0353383)55:0.00643588)67:0.01400882,38:0.1035904)90:0.0141834)98:0.0069889)100:0.013827)100:0.0141665,(((39:0,40:0)NA:0.06185264,41:0.0728647)94:0.03045455,((42:0.0801257,(43:0.05771835,44:0.10320778)73:0.0100988)82:0.02405996,((45:0.0749103,(46:0.0549078,47:0.0281058)54:0.01519313)99:0.005,(48:0.03,49:0.03)NA:0.03)NA:0.00222357)99:0.00808077)99:0.00498126)100:0.0682627,((50:0.0735687,51:0.0922829)100:0.1572245,52:0.22684537)100:0.06060375)15:0.00235599)8:0.20937618,((53:0.11161555,54:0.150739)99:0.32397702,(55:0.338,56:0.24188467)36:0.15059132)97:0.014049)97:0.19519)97:0.0232614)100:0.3872666)93;
+END;
